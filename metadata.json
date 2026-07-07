@@ -1,0 +1,8 @@
+{
+  "name": " Boda Jesús y Nuri V.4 ofi",
+  "description": "Invitación Virtual Premium - Jesús y Nuri 2026",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
