@@ -14,7 +14,7 @@ export const translations = {
       wedding: "Nuestra Boda",
       subtitle: "Dános el honor de acompañarnos a celebrar nuestra unión de amor eterno.",
       date: "SÁBADO • 05 SEPTIEMBRE • 2026",
-      place: "PARROQUIA SANTÍSIMA CRUZ DE ACEQUIA ALTA • CAYMA",
+      place: "PARROQUIA SANTÍSIMA CRUZ DE ACEQUIA ALTA • CERRO COLORADO",
     },
     whatsapp: {
       tooltip: "Consultas por WhatsApp",
@@ -34,7 +34,7 @@ export const translations = {
       wedding_day_label: "Boda",
       saturday: "Sábado",
       of: "de",
-      cayma: "Cayma, Arequipa, Perú",
+      cayma: "Cerro Colorado, Arequipa, Perú",
     },
     family: {
       blessing: "Con la Bendición de Dios",
@@ -68,7 +68,7 @@ export const translations = {
       celebration: "La Gran Celebración",
       time: "Hora",
       place: "Lugar",
-      cayma: "Cayma, Arequipa, Perú",
+      cayma: "Cerro Colorado, Arequipa, Perú",
       after_service: "Inmediatamente después del oficio",
       view_map: "Ver Mapa",
       calendar: "Calendario",
@@ -166,7 +166,7 @@ export const translations = {
       wedding: "Our Wedding",
       subtitle: "Give us the honor of accompanying us to celebrate our eternal union of love.",
       date: "SATURDAY • SEPTEMBER 05 • 2026",
-      place: "SANTÍSIMA CRUZ DE ACEQUIA ALTA PARISH • CAYMA",
+      place: "SANTÍSIMA CRUZ DE ACEQUIA ALTA PARISH • CERRO COLORADO",
     },
     whatsapp: {
       tooltip: "Queries via WhatsApp",
@@ -186,7 +186,7 @@ export const translations = {
       wedding_day_label: "Wedding",
       saturday: "Saturday",
       of: "of",
-      cayma: "Cayma, Arequipa, Peru",
+      cayma: "Cerro Colorado, Arequipa, Peru",
     },
     family: {
       blessing: "With God's Blessing",
@@ -220,7 +220,7 @@ export const translations = {
       celebration: "The Grand Celebration",
       time: "Time",
       place: "Location",
-      cayma: "Cayma, Arequipa, Peru",
+      cayma: "Cerro Colorado, Arequipa, Peru",
       after_service: "Immediately after the service",
       view_map: "View Map",
       calendar: "Calendar",

@@ -8,8 +8,8 @@ export default function EventsAndMaps() {
   const [showNotify, setShowNotify] = useState<string | null>(null);
 
   // External URLs
-  const calendarChurchUrl = "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Boda%20Jes%C3%BAs%20y%20Nuri%20-%20Ceremonia%20Religiosa&dates=20260905T170000Z/20260905T190000Z&details=Acomp%C3%A1%C3%B1anos%20a%20celebrar%20nuestro%20matrimonio%20religioso%20en%20la%20Parroquia%20Sant%C3%ADsima%20Cruz%20de%20Acequia%20Alta.&location=Parroquia%20Sant%C3%ADsima%20Cruz%20de%20Acequia%20Alta,%20Cayma,%20Arequipa";
-  const calendarReceptionUrl = "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Boda%20Jes%C3%BAs%20y%20Nuri%20-%20Recepci%C3%B3n&dates=20260905T190000Z/20260906T040000Z&details=Celebremos%20juntos%20nuestra%20boda%20en%20Casa%20Babilonia.&location=Casa%20Babilonia,%20Cayma,%20Arequipa";
+  const calendarChurchUrl = "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Boda%20Jes%C3%BAs%20y%20Nuri%20-%20Ceremonia%20Religiosa&dates=20260905T170000Z/20260905T190000Z&details=Acomp%C3%A1%C3%B1anos%20a%20celebrar%20nuestro%20matrimonio%20religioso%20en%20la%20Parroquia%20Sant%C3%ADsima%20Cruz%20de%20Acequia%20Alta.&location=Parroquia%20Sant%C3%ADsima%20Cruz%20de%20Acequia%20Alta,%20Cerro%20Colorado,%20Arequipa";
+  const calendarReceptionUrl = "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Boda%20Jes%C3%BAs%20y%20Nuri%20-%20Recepci%C3%B3n&dates=20260905T190000Z/20260906T040000Z&details=Celebremos%20juntos%20nuestra%20boda%20en%20Casa%20Babilonia.&location=Casa%20Babilonia,%20Cerro%20Colorado,%20Arequipa";
 
   const churchNavUrl = "https://maps.app.goo.gl/CajU7Uoy52AyyZxH6";
   const receptionNavUrl = "https://maps.app.goo.gl/mXmJju4NoMeNeCMo6";
@@ -117,7 +117,7 @@ export default function EventsAndMaps() {
               12:00 PM (Perú)
             </span>
             <span className="font-serif text-[11px] uppercase tracking-widest text-[#a6916c] font-medium mt-1">
-              Cayma, Arequipa
+              Cerro Colorado, Arequipa
             </span>
           </div>
 
@@ -226,7 +226,7 @@ export default function EventsAndMaps() {
               02:00 PM <br className="sm:hidden" /> (Inmediatamente después del oficio)
             </span>
             <span className="font-serif text-[11px] uppercase tracking-widest text-[#a6916c] font-medium mt-1">
-              Cayma, Arequipa
+              Cerro Colorado, Arequipa
             </span>
           </div>
 
